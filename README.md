@@ -1,16 +1,44 @@
 ### Hi there 👋
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with extensive experience in building dynamic, high-performance web applications. 
+Over the years, I've honed my skills in both frontend and backend development, and I'm excited to share my projects, contributions, and knowledge with the community.
 
-<!--
-**Asilkin1/Asilkin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+### Frontend
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Angular, Vue.js
+- **Styling:** Sass, Less, Tailwind CSS, Bootstrap, Material-UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- **Languages:** Node.js, Python, Ruby, Java, PHP
+- **Frameworks:** Express.js, Django, Ruby on Rails
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
+
+### DevOps & Tools
+- **Version Control:** Git, GitHub, GitLab
+- **CI/CD:** Jenkins, Travis CI, CircleCI, GitHub Actions
+- **Cloud Services:** AWS, Azure, Google Cloud Platform, Heroku, DigitalOcean
+- **Containerization:** Docker
+- **Testing:** Jest, Mocha, Chai, Cypress
+
+## 🌱 Currently Learning
+
+I'm constantly improving my skills and currently diving deeper into:
+
+- Advanced TypeScript
+- Machine Learning and AI
+- Serverless Architecture
+
+## 🎯 Future Goals
+
+- Contribute to more open-source projects
+- Develop a SaaS application
+  
+## 💬 Get in Touch
+I'm always open to collaboration, feedback, or just a friendly chat. Feel free to reach out to me via:
+
+- **Email:** alexandersilkin@icloud.com
+- **LinkedIn:** [Alexander Silkin](https://www.linkedin.com/in/alexandervsilkin/)
+
+Let's build something amazing together!
+
